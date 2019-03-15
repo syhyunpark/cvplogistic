@@ -1,0 +1,3 @@
+useDynLib("cvplogistic", .registration=TRUE)
+export(cvplogistic, hybrid.logistic, cv.cvplogistic, cv.hybrid, path.plot)
+

@@ -1,0 +1,11 @@
+cv.cvplogistic          Tuning parameter selection by k-fold cross
+                        validation for concave penalized logistic model
+cv.hybrid               Tuning parameter selection by k-fold cross
+                        validation for logistic models with
+                        Lasso-concave hybrid penalty
+cvplogistic             Majorization minimization by coordinate descent
+                        for concave penalized logistic regression
+hybrid.logistic         A Lasso-concave hybrid penalty for logistic
+                        regression
+path.plot               Plot the solution path for the concave
+                        penalized logistic models
